@@ -1,0 +1,2 @@
+4df59b7811ca02f374caadb7af540ab6d7828c1e646e6dce81e678fc8045b08c  GeneralsAndroid-v0.1.2-alpha-debug.apk
+cad4e71f66998499c3da1d32e100f7e7001401b626881eb894a13316baae42b7  GeneralsAndroid-v0.1.2-alpha-release.apk
